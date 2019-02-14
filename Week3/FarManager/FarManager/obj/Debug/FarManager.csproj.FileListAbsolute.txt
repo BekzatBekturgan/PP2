@@ -1,0 +1,7 @@
+C:\Users\bbekt\Desktop\PP2\BekzatBekturgan\PP2\Week3\FarManager\FarManager\bin\Debug\FarManager.exe.config
+C:\Users\bbekt\Desktop\PP2\BekzatBekturgan\PP2\Week3\FarManager\FarManager\bin\Debug\FarManager.exe
+C:\Users\bbekt\Desktop\PP2\BekzatBekturgan\PP2\Week3\FarManager\FarManager\bin\Debug\FarManager.pdb
+C:\Users\bbekt\Desktop\PP2\BekzatBekturgan\PP2\Week3\FarManager\FarManager\obj\Debug\FarManager.csprojAssemblyReference.cache
+C:\Users\bbekt\Desktop\PP2\BekzatBekturgan\PP2\Week3\FarManager\FarManager\obj\Debug\FarManager.csproj.CoreCompileInputs.cache
+C:\Users\bbekt\Desktop\PP2\BekzatBekturgan\PP2\Week3\FarManager\FarManager\obj\Debug\FarManager.exe
+C:\Users\bbekt\Desktop\PP2\BekzatBekturgan\PP2\Week3\FarManager\FarManager\obj\Debug\FarManager.pdb
